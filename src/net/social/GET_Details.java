@@ -23,16 +23,15 @@ public class GET_Details {
 		try{
 			User user = twitter.showUser(id);
 			if(user.getLocation().toLowerCase().contains("thailand")){
-				Global.inThai = false;
 				System.out.println(user.getLocation());
-			Global.fileName = user.getScreenName() + ".txt";
-			new EditFile().Write(Global.fileName,"ID : " + Long.toString(id),false);
-			new EditFile().Write(Global.fileName,"ScreenName : " + user.getScreenName(),true);
-			new EditFile().Write(Global.fileName,"Location : " + user.getLocation(),true);
-			new EditFile().Write(Global.fileName,"StatusCount : " + user.getStatusesCount(),true);
-			new EditFile().Write(Global.fileName,"FollowerCount : " + user.getFollowersCount(),true);
-			new EditFile().Write(Global.fileName,"FollowingCount : " + user.getFriendsCount(),true);
-			new EditFile().Write(Global.fileName,"List of FollowingID : ",true);
+				Global.fileName = user.getScreenName() + ".txt";
+				new EditFile().Write(Global.fileName,"ID : " + Long.toString(id),false);
+				new EditFile().Write(Global.fileName,"ScreenName : " + user.getScreenName(),true);
+				new EditFile().Write(Global.fileName,"Location : " + user.getLocation(),true);
+				new EditFile().Write(Global.fileName,"StatusCount : " + user.getStatusesCount(),true);
+				new EditFile().Write(Global.fileName,"FollowerCount : " + user.getFollowersCount(),true);
+				new EditFile().Write(Global.fileName,"FollowingCount : " + user.getFriendsCount(),true);
+				new EditFile().Write(Global.fileName,"List of FollowingID : ",true);
 			}
 			else{
 				Global.inThai = false;

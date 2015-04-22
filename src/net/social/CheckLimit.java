@@ -9,6 +9,11 @@ import twitter4j.RateLimitStatus;
 import java.io.*;
 
 public class CheckLimit {
+	/*
+	 "/friends/ids" : limit for get friend(following) id of user = 15 time(max 5000 friends id/1 time)
+	 "/users/show/:id"	: limit for get detail of userID = 180 request (1 request/1 user)
+	 "/application/rate_limit_status"	limit for rate limit app total = 180 request
+	*/
 	public static String IDLimit  = "/friends/ids";
 	
 	public static int start(String endpoint) {
@@ -20,7 +25,7 @@ public class CheckLimit {
 		twitter.setOAuthAccessToken(oathAccessToken);
 		
 		try {
-			RateLimitStatus rate = twitter.getRateLimitStatus().get("/friends/ids");
+			RateLimitStatus rate = twitter.getRateLimitStatus().get("/application/rate_limit_status");
 			System.out.println(rate);
 			System.out.println(rate.getLimit());
 			System.out.println(rate.getRemaining());

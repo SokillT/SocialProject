@@ -1,8 +1,10 @@
 package net.social;
 
 public class Global {
-	public static String CONSUMER_KEY = "qLCpDHdIWf2rtBbYO3m22TohR";
-	public static String CONSUMER_SECRET = "YmjOTRHbq2RzjPsCuXdTO523sIOx6Quqkc81qe149T1vlJlhXY";
+	public static String CONSUMER_KEY = "Nr6DRo8uCMjI9hPV96lxpVDWq";
+	public static String CONSUMER_SECRET = "uxZRpE0j2sDm41vMt4qtcDOm27IEj5BrgFoe4TH9xkPfKNYvt2";
+	public static String accessToken = "260691702-7TQyGvwIEsYguHXLeYC7frIWuSqBLydlSq1vkJlV";
+	public static String accessTokenSecret = "9uPX5hnvV0G4GO8uN5c7WdZdREJ2WorYCWFarGYaiNwO8";
 	
 	//{accessToken,accessTokenSecret}
 	public static String[][] tokenDetail = {
@@ -34,8 +36,6 @@ public class Global {
 		{0,0,0},{0,0,0},{0,0,0},{0,0,0}
 	};
 	
-	public static String accessToken = "260691702-O2yyT8Pbbf0VY78XZM1DjQY3hqgKR0CUEpy941q5";
-	public static String accessTokenSecret = "JKox1Gm3ALCT2XYdYpRoZPs7I10f9vhaeoRsVnmnlzCbH";
 	public static int rateFriendID = 15;
 	public static int rateUser = 180;
 	public static int rateApp = 180;
@@ -44,6 +44,7 @@ public class Global {
 	public static String fileName = currentSName + ".txt";
 	public static boolean inThai = false;
 	public static boolean start = true;
+	public static boolean finish = true;
 	public static int linenumber = 1;
 	
 	public static void main(String[] args) {

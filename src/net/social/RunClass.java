@@ -35,6 +35,27 @@ public class RunClass {
 		return linenumber;
 	}
 	
+	public static boolean CheckFinish(long id){
+		BufferedReader bufferedReader = null;
+		String fileName = "finish.txt";
+		String line = null;
+		try {
+			bufferedReader = new EditFile().Read(fileName);
+			while((line = bufferedReader.readLine()) != null) {
+				if(Long.toString(id) == line){
+					return true;
+				}
+			}    
+			bufferedReader.close(); 
+		}catch(FileNotFoundException ex) {
+            System.out.println("Unable to open file '" + fileName + "'");                
+        }
+        catch(IOException ex) {
+            System.out.println("Error reading file '" + fileName + "'");
+        }
+		return false;
+	}
+	
 	public static void GET_CurrentID(int linenumber){
 		BufferedReader bufferedReader = null;
 		String fileName = "queue.txt";
@@ -70,23 +91,30 @@ public class RunClass {
 	public static void GET_Details(){
 		new GET_Details().start(Global.currentID);
 	}
+	
+	public static int GET_LimitRemaining(){
+		int rate = 0;
+		
+		return rate;
+	}
 
 	public static void main(String[] args){
 		while(Global.start){
 			Global.linenumber = GET_LineCurrent();			//GET linenumber current
 			GET_CurrentID(Global.linenumber);				//GET CurrentID
-		
-			//CHECK NOT GET in finish.txt
 			
-			GET_Details();							//GET Details of CurrentID
-			if(Global.inThai == false){
-				Global.linenumber += 1;
-				System.out.println(Global.inThai);
-			}
-			else{
-				GET_FollowingID();					//GET FollowingID of currentID
-				Global.linenumber += 1;
-			}						
+			Global.finish = CheckFinish(Global.currentID);	//CHECK NOT GET in finish.txt
+			if(Global.finish == false){
+				GET_Details();							//GET Details of CurrentID
+				if(Global.inThai == false){
+					Global.linenumber += 1;
+					System.out.println("NOT IN THAI : " + Global.inThai);
+				}
+				else{
+					GET_FollowingID();					//GET FollowingID of currentID
+					Global.linenumber += 1;
+				}	
+			}					
 		new EditFile().Write("current.txt",Integer.toString(Global.linenumber),false);
 		System.out.println(Global.rateFriendID);
 		}
