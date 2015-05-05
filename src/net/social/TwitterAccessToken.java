@@ -11,8 +11,8 @@ import twitter4j.auth.RequestToken;
 
 public class TwitterAccessToken {
 
-	public static String CONSUMER_KEY = "z9NS6UMKItmFD75TZwr2MCDDX";
-	public static String CONSUMER_SECRET = "vBPjsj1yKCcmwDk2MSdcEtg9mQrLj4LUvNfgEpQIlMELoUcbea";
+	public static String CONSUMER_KEY = "Nr6DRo8uCMjI9hPV96lxpVDWq";
+	public static String CONSUMER_SECRET = "uxZRpE0j2sDm41vMt4qtcDOm27IEj5BrgFoe4TH9xkPfKNYvt2";
 	
 	public static void main(String[] args) throws Exception {
 		

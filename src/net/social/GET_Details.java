@@ -23,6 +23,7 @@ public class GET_Details {
 		try{
 			User user = twitter.showUser(id);
 			if(user.getLocation().toLowerCase().contains("thailand")){
+				Global.inThai = true;
 				System.out.println(user.getLocation());
 				Global.fileName = user.getScreenName() + ".txt";
 				new EditFile().Write(Global.fileName,"ID : " + Long.toString(id),false);

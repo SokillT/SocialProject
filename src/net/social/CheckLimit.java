@@ -25,7 +25,7 @@ public class CheckLimit {
 		twitter.setOAuthAccessToken(oathAccessToken);
 		
 		try {
-			RateLimitStatus rate = twitter.getRateLimitStatus().get("/application/rate_limit_status");
+			RateLimitStatus rate = twitter.getRateLimitStatus().get(endpoint);
 			System.out.println(rate);
 			System.out.println(rate.getLimit());
 			System.out.println(rate.getRemaining());
