@@ -1,0 +1,6 @@
+ScreenName : sasiGap
+Location : Bkk, Thailand
+StatusCount : 4426
+FollowerCount : 82
+FollowingCount : 212
+List of FollowingID : 

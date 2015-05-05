@@ -1,0 +1,6 @@
+ScreenName : top_kkw
+Location : Khonkaen, Thailand
+StatusCount : 1218
+FollowerCount : 114
+FollowingCount : 828
+List of FollowingID : 

@@ -1,0 +1,10 @@
+ScreenName : drama_add
+Location : Bangkok, Thailand
+StatusCount : 2856
+FollowerCount : 106151
+FollowingCount : 7
+List of FollowingID : 
+ThaksinLive
+PM_Abhisit
+H3O_H3O
+failinth

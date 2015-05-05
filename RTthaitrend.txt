@@ -1,0 +1,7 @@
+ScreenName : RTthaitrend
+Location : Thailand
+StatusCount : 381615
+FollowerCount : 69941
+FollowingCount : 7
+List of FollowingID : 
+RTAttention

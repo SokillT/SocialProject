@@ -1,0 +1,6 @@
+ScreenName : B1A4_FANCLUB
+Location : Thailand
+StatusCount : 8930
+FollowerCount : 8781
+FollowingCount : 113
+List of FollowingID : 

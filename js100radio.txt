@@ -1,0 +1,9 @@
+ScreenName : js100radio
+Location : Bangkok
+StatusCount : 200316
+FollowerCount : 921262
+FollowingCount : 12
+List of FollowingID : 
+mwa1125
+MEA_NEWS
+Goldprice_GTA

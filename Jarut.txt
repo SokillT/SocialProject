@@ -1,0 +1,18 @@
+ScreenName : Jarut
+Location : Thailand
+StatusCount : 8
+FollowerCount : 24
+FollowingCount : 85
+List of FollowingID : 
+benze
+Thairath_News
+AdeccoThailand
+kafaak
+TCCTCLOUD
+eGovThailand
+ThongchaiJaidee
+MCOTDOTNET
+swpark
+ciscogovclub
+CiscoThai
+borisuth

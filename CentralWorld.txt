@@ -1,0 +1,12 @@
+ScreenName : CentralWorld
+Location : BKK, Thailand
+StatusCount : 10063
+FollowerCount : 76366
+FollowingCount : 2363
+List of FollowingID : 
+starzerobenz
+Bassdor
+andrewbiggs
+DrNateeDigital
+TKpark_TH
+Punesuka

@@ -1,0 +1,12 @@
+ScreenName : KPrimapas
+Location : Bangkok, Thailand
+StatusCount : 7
+FollowerCount : 5
+FollowingCount : 42
+List of FollowingID : 
+thevoicethai
+TheSimsNewsTH
+ThaipbsEngNews
+KingPowerhq
+bkkrecruiter
+AdeccoThailand

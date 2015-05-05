@@ -1,0 +1,6 @@
+ScreenName : ChawisaChen
+Location : Bangkok, Thailand
+StatusCount : 13249
+FollowerCount : 2078
+FollowingCount : 217
+List of FollowingID : 

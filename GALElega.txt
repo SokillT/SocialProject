@@ -1,0 +1,6 @@
+ScreenName : GALElega
+Location : BKK,Thailand
+StatusCount : 13261
+FollowerCount : 138
+FollowingCount : 104
+List of FollowingID : 

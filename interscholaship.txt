@@ -1,0 +1,22 @@
+ScreenName : interscholaship
+Location : Bangkok
+StatusCount : 3030
+FollowerCount : 2968
+FollowingCount : 37
+List of FollowingID : 
+eduzones
+Domepakornlam
+KornDemocrat
+BPbreakingnews
+MajorGroup
+wongthanong
+Thairath_Ent
+NOW26_ktnews
+NationTV22
+ThaksinLive
+paloyhorwang
+kalamare
+andrewbiggs
+ploy_chermarn
+chocoopal
+Woodytalk

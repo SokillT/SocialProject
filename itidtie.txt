@@ -1,0 +1,9 @@
+ScreenName : itidtie
+Location : Chiang mai, Thailand
+StatusCount : 3126
+FollowerCount : 51
+FollowingCount : 33
+List of FollowingID : 
+yoshikitid
+blognone
+papacurry

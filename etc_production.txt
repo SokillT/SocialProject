@@ -1,0 +1,8 @@
+ScreenName : etc_production
+Location : Bangkok
+StatusCount : 2088
+FollowerCount : 133
+FollowingCount : 104
+List of FollowingID : 
+loving_friday
+supotayan

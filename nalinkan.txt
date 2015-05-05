@@ -1,0 +1,9 @@
+ScreenName : nalinkan
+Location : BKK, Thailand
+StatusCount : 3343
+FollowerCount : 40
+FollowingCount : 4
+List of FollowingID : 
+twit_thesis
+mrtompkin
+khaopan

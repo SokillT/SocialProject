@@ -1,0 +1,6 @@
+ScreenName : Aomikaze
+Location : Bangkok,Thailand
+StatusCount : 3
+FollowerCount : 12
+FollowingCount : 171
+List of FollowingID : 

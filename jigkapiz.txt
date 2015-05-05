@@ -1,0 +1,9 @@
+ScreenName : jigkapiz
+Location : Thailand
+StatusCount : 1222
+FollowerCount : 18
+FollowingCount : 283
+List of FollowingID : 
+Furfear
+Thairath_TV
+Seoul_Cafe

@@ -1,0 +1,6 @@
+ScreenName : Nupimz_L
+Location : BKK
+StatusCount : 3211
+FollowerCount : 65
+FollowingCount : 144
+List of FollowingID : 

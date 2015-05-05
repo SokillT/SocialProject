@@ -1,0 +1,26 @@
+ScreenName : NBTCupdate
+Location : Bangkok, Thailand
+StatusCount : 299
+FollowerCount : 1917
+FollowingCount : 55
+List of FollowingID : 
+ThaiState
+E20MNT
+Thawatchai_NBTC
+DailynewsTwit
+ThaiPBS
+Pat_ThaiPBS
+Thairath_News
+trio_th
+SpringNews_TV
+CATplc
+EngineerThaiPBS
+amtNBTC
+chavarong
+tube_nbtc
+piyabutr
+sakonrat
+poo_ying
+ThaiKhuFah
+TakornNBTC
+DrNateeDigital

@@ -1,0 +1,6 @@
+ScreenName : sugus_jb
+Location : Thailand
+StatusCount : 28430
+FollowerCount : 396
+FollowingCount : 98
+List of FollowingID : 

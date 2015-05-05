@@ -1,0 +1,7 @@
+ScreenName : awkwin
+Location : Bangkok, Thailand
+StatusCount : 193251
+FollowerCount : 1801
+FollowingCount : 442
+List of FollowingID : 
+_pnagi

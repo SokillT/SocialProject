@@ -1,0 +1,7 @@
+ScreenName : lekasina
+Location : Bangkok
+StatusCount : 89836
+FollowerCount : 23638
+FollowingCount : 3410
+List of FollowingID : 
+khonkaen_update

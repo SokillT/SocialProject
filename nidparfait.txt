@@ -1,0 +1,6 @@
+ScreenName : nidparfait
+Location : BKK, Thailand
+StatusCount : 345
+FollowerCount : 120
+FollowingCount : 839
+List of FollowingID : 

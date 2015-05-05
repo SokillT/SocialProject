@@ -1,0 +1,6 @@
+ScreenName : gloriousIntel
+Location : Bangkok, Thailand
+StatusCount : 2
+FollowerCount : 8
+FollowingCount : 22
+List of FollowingID : 

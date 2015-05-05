@@ -1,0 +1,6 @@
+ScreenName : Orihara_S
+Location : Bangkok, Thailand
+StatusCount : 7452
+FollowerCount : 104
+FollowingCount : 159
+List of FollowingID : 

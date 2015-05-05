@@ -1,0 +1,6 @@
+ScreenName : anzarita
+Location : BKK - Thailand
+StatusCount : 17492
+FollowerCount : 36
+FollowingCount : 143
+List of FollowingID : 

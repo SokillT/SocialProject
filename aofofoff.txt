@@ -1,0 +1,6 @@
+ScreenName : aofofoff
+Location : bkk
+StatusCount : 1775
+FollowerCount : 65
+FollowingCount : 73
+List of FollowingID : 

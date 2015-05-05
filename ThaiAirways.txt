@@ -1,0 +1,8 @@
+ScreenName : ThaiAirways
+Location : bangkok, Thailand
+StatusCount : 3752
+FollowerCount : 45744
+FollowingCount : 37
+List of FollowingID : 
+NicolaChilton
+nutthaboon

@@ -1,0 +1,9 @@
+ScreenName : CreativeMOVE
+Location : Thailand
+StatusCount : 3291
+FollowerCount : 18034
+FollowingCount : 3
+List of FollowingID : 
+portfoliosnet
+InfographicMOVE
+aceimage

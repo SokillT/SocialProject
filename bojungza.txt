@@ -1,0 +1,6 @@
+ScreenName : bojungza
+Location : BANGKOK, THAILAND
+StatusCount : 362
+FollowerCount : 51
+FollowingCount : 92
+List of FollowingID : 

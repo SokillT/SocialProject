@@ -1,0 +1,21 @@
+ScreenName : ThaiRedCross
+Location : Thailand
+StatusCount : 4400
+FollowerCount : 28435
+FollowingCount : 40
+List of FollowingID : 
+DailynewsTwit
+MSD_Bangkok
+HIVNAT
+DrIttaporn
+SiamArsa
+ThaiTv5
+Siriraj_PR
+phetwong
+TWT4TH
+nikhon_
+thaiflood
+NationTV22
+js100radio
+BPbreakingnews
+ThaiPBS

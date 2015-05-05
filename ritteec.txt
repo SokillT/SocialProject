@@ -1,0 +1,6 @@
+ScreenName : ritteec
+Location : Bangkok
+StatusCount : 104
+FollowerCount : 7
+FollowingCount : 29
+List of FollowingID : 

@@ -1,0 +1,7 @@
+ScreenName : PatZaaJa
+Location : Thailand
+StatusCount : 413
+FollowerCount : 66
+FollowingCount : 238
+List of FollowingID : 
+SETCallCenter

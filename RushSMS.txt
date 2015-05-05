@@ -1,0 +1,11 @@
+ScreenName : RushSMS
+Location : Bangkok, Thailand
+StatusCount : 0
+FollowerCount : 2
+FollowingCount : 9
+List of FollowingID : 
+gthchannel
+MajorGroup
+Suharit
+rzranya
+nuicekung

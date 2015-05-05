@@ -1,0 +1,6 @@
+ScreenName : nakannohc
+Location : Bangkok, Thailand
+StatusCount : 919
+FollowerCount : 74
+FollowingCount : 178
+List of FollowingID : 

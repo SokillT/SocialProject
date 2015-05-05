@@ -1,0 +1,6 @@
+ScreenName : bgg65
+Location : Bangkok, Thailand
+StatusCount : 788
+FollowerCount : 83
+FollowingCount : 136
+List of FollowingID : 

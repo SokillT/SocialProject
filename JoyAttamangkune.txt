@@ -1,0 +1,6 @@
+ScreenName : JoyAttamangkune
+Location : Bangkok,Thailand
+StatusCount : 78
+FollowerCount : 11
+FollowingCount : 23
+List of FollowingID : 

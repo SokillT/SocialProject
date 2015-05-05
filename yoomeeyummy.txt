@@ -1,0 +1,6 @@
+ScreenName : yoomeeyummy
+Location : Bangkok,Thailand
+StatusCount : 16307
+FollowerCount : 87
+FollowingCount : 166
+List of FollowingID : 

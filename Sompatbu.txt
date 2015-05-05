@@ -1,0 +1,7 @@
+ScreenName : Sompatbu
+Location : Thailand
+StatusCount : 19651
+FollowerCount : 262
+FollowingCount : 1345
+List of FollowingID : 
+dotcafe

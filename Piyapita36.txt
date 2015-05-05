@@ -1,0 +1,6 @@
+ScreenName : Piyapita36
+Location : Bangkok,Thailand
+StatusCount : 706
+FollowerCount : 74
+FollowingCount : 86
+List of FollowingID : 

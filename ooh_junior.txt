@@ -1,0 +1,8 @@
+ScreenName : ooh_junior
+Location : Bangkok
+StatusCount : 1814
+FollowerCount : 49
+FollowingCount : 148
+List of FollowingID : 
+getsunova
+tpagon

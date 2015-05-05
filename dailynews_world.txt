@@ -1,0 +1,16 @@
+ScreenName : dailynews_world
+Location : Bangkok,Thailand
+StatusCount : 17338
+FollowerCount : 8139
+FollowingCount : 128
+List of FollowingID : 
+CanadaThailand
+ukinthailand
+KentBKK
+SiamArsa
+MFAThai
+adaymagazine
+wongnai
+TheReaderThai
+newtv_18
+DailynewsTwit

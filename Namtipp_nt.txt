@@ -1,0 +1,6 @@
+ScreenName : Namtipp_nt
+Location : Thailand
+StatusCount : 22076
+FollowerCount : 184
+FollowingCount : 199
+List of FollowingID : 

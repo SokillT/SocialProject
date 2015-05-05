@@ -1,0 +1,9 @@
+ScreenName : ImagePinya
+Location : Bangkok
+StatusCount : 1196
+FollowerCount : 531
+FollowingCount : 50
+List of FollowingID : 
+NOW26_ktnews
+UNThailand
+prachatai

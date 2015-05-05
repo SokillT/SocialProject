@@ -1,0 +1,6 @@
+ScreenName : FRANKUN_2
+Location : Thailand
+StatusCount : 35722
+FollowerCount : 73
+FollowingCount : 254
+List of FollowingID : 

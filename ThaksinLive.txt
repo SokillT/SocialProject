@@ -1,0 +1,9 @@
+ScreenName : ThaksinLive
+Location : Thailand
+StatusCount : 2274
+FollowerCount : 531748
+FollowingCount : 6
+List of FollowingID : 
+PouYingluck
+Voice_TV
+ThaksinBiz

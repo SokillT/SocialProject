@@ -1,0 +1,17 @@
+ScreenName : f0nt
+Location : Bangkok
+StatusCount : 809
+FollowerCount : 10100
+FollowingCount : 35
+List of FollowingID : 
+tcdc
+opazz
+ed_crub
+suppakit_
+tcdcconnect
+sirapot
+iwoolfz
+iwetone
+chaowapat
+korstudio
+bellbells

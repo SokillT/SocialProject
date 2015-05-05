@@ -1,0 +1,8 @@
+ScreenName : PhoneFin
+Location : Bkk
+StatusCount : 5296
+FollowerCount : 113
+FollowingCount : 132
+List of FollowingID : 
+dtac
+Flagfrogfiz

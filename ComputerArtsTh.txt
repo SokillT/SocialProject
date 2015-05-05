@@ -1,0 +1,7 @@
+ScreenName : ComputerArtsTh
+Location : Bangkok, Thailand
+StatusCount : 1301
+FollowerCount : 1435
+FollowingCount : 19
+List of FollowingID : 
+PangEang

@@ -1,0 +1,13 @@
+ScreenName : PloiaWaIT
+Location : Bangkok, Thailand
+StatusCount : 3260
+FollowerCount : 55
+FollowingCount : 22
+List of FollowingID : 
+_037079
+KungKorkung
+Arashi_Thailand
+Hoshi_chian
+vajiramedhi
+P_PUANE
+coundsheck

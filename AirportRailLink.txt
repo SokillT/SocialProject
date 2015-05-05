@@ -1,0 +1,110 @@
+ScreenName : AirportRailLink
+Location : Thailand
+StatusCount : 1093
+FollowerCount : 14598
+FollowingCount : 106
+List of FollowingID : 
+NokAirlines
+Thairath_TV
+bangkok_airways
+ThaiAirways
+Kom_chad_luek
+nnanews
+siamrathonline
+tnnthailand
+thannews
+MorningNewsTV3
+KhaosodOnline
+thinkingradioFM
+fm91trafficpro
+ThaiReport_Bkk
+MarketingOops
+ThaiTv5
+BPbreakingnews
+NOW26_ktnews
+nationnews
+PrachachatBiz
+NationTV22
+Voice_TV
+Goldprice_GTA
+mwa1125
+MEA_NEWS
+PM_Abhisit
+ThaksinLive
+tri333
+ndwc_Thai
+khaosod
+DailynewsTwit
+adaymagazine
+Pantip1996
+go2Thailand
+Thairath_Ent
+MCOTDOTNET
+Bangkok_PR
+Abhisit_DP
+Pat_ThaiPBS
+thaipost
+Woodytalk
+AirportLinkClub
+ThaiRedCross
+panraphee
+ThaiPBS
+Thairath_News
+js100radio
+BRTbangkok
+MRT_BMCL
+ScreenName : AirportRailLink
+Location : Thailand
+StatusCount : 1093
+FollowerCount : 14629
+FollowingCount : 106
+List of FollowingID : 
+NokAirlines
+Thairath_TV
+bangkok_airways
+ThaiAirways
+Kom_chad_luek
+nnanews
+siamrathonline
+tnnthailand
+thannews
+MorningNewsTV3
+KhaosodOnline
+thinkingradioFM
+fm91trafficpro
+ThaiReport_Bkk
+MarketingOops
+ThaiTv5
+BPbreakingnews
+NOW26_ktnews
+nationnews
+PrachachatBiz
+NationTV22
+Voice_TV
+Goldprice_GTA
+mwa1125
+MEA_NEWS
+PM_Abhisit
+ThaksinLive
+tri333
+ndwc_Thai
+khaosod
+DailynewsTwit
+adaymagazine
+Pantip1996
+go2Thailand
+Thairath_Ent
+MCOTDOTNET
+Bangkok_PR
+Abhisit_DP
+Pat_ThaiPBS
+thaipost
+Woodytalk
+AirportLinkClub
+ThaiRedCross
+panraphee
+ThaiPBS
+Thairath_News
+js100radio
+BRTbangkok
+MRT_BMCL

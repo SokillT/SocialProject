@@ -1,0 +1,6 @@
+ScreenName : euam_scrr
+Location : Nonthaburi , Thailand
+StatusCount : 116
+FollowerCount : 21
+FollowingCount : 614
+List of FollowingID : 

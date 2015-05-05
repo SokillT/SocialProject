@@ -1,0 +1,16 @@
+ScreenName : exteen
+Location : Thailand
+StatusCount : 9626
+FollowerCount : 14045
+FollowingCount : 3
+List of FollowingID : 
+ipats
+tpagon
+ScreenName : exteen
+Location : Thailand
+StatusCount : 9626
+FollowerCount : 14050
+FollowingCount : 3
+List of FollowingID : 
+ipats
+tpagon

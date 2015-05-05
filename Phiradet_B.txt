@@ -1,0 +1,6 @@
+ScreenName : Phiradet_B
+Location : Bangkok,Thailand
+StatusCount : 3479
+FollowerCount : 120
+FollowingCount : 342
+List of FollowingID : 

@@ -1,0 +1,6 @@
+ScreenName : aofthanasin
+Location : Bangkok, Thailand
+StatusCount : 5038
+FollowerCount : 96
+FollowingCount : 225
+List of FollowingID : 

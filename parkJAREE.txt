@@ -1,0 +1,6 @@
+ScreenName : parkJAREE
+Location : BKK Thailand
+StatusCount : 5759
+FollowerCount : 36
+FollowingCount : 74
+List of FollowingID : 

@@ -1,0 +1,6 @@
+ScreenName : FaiFaii_36
+Location : Bkk,Thailand
+StatusCount : 298
+FollowerCount : 85
+FollowingCount : 101
+List of FollowingID : 

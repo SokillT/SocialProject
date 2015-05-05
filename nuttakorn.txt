@@ -1,0 +1,6 @@
+ScreenName : nuttakorn
+Location : Thailand
+StatusCount : 31667
+FollowerCount : 2706
+FollowingCount : 2257
+List of FollowingID : 

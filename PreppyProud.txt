@@ -1,0 +1,11 @@
+ScreenName : PreppyProud
+Location : Bangkok Metropolis
+StatusCount : 4482
+FollowerCount : 79
+FollowingCount : 48
+List of FollowingID : 
+mickey_mooji
+Centralnews
+SHBSPORT
+Nan_jaratwasan
+PearlNannapin

@@ -1,0 +1,6 @@
+ScreenName : pingmantana
+Location : Bangkok, Thailand
+StatusCount : 2474
+FollowerCount : 452
+FollowingCount : 258
+List of FollowingID : 

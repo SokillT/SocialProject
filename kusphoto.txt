@@ -1,0 +1,10 @@
+ScreenName : kusphoto
+Location : Bangkok, Thailand
+StatusCount : 135
+FollowerCount : 88
+FollowingCount : 10
+List of FollowingID : 
+PhakornS
+sonnyhonny
+mamuang
+kusacinspire

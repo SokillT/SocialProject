@@ -1,0 +1,7 @@
+ScreenName : p_svettachat
+Location : Bangkok
+StatusCount : 2513
+FollowerCount : 50
+FollowingCount : 548
+List of FollowingID : 
+zommarie

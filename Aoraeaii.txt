@@ -1,0 +1,6 @@
+ScreenName : Aoraeaii
+Location : Chiang Rai,Thailand
+StatusCount : 630
+FollowerCount : 43
+FollowingCount : 60
+List of FollowingID : 

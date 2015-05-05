@@ -1,0 +1,9 @@
+ScreenName : mor_maew
+Location : Bangkok
+StatusCount : 63492
+FollowerCount : 131256
+FollowingCount : 984
+List of FollowingID : 
+readgiraffe
+minimoreweb
+nidnok

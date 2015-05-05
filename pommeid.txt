@@ -1,0 +1,13 @@
+ScreenName : pommeid
+Location : Bangkok, Thailand
+StatusCount : 2606
+FollowerCount : 105
+FollowingCount : 190
+List of FollowingID : 
+TotemType
+blognone
+kanotweet
+nvongin
+panuwatbank
+Tanachot
+DuangritBunnag

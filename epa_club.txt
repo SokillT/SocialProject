@@ -1,0 +1,10 @@
+ScreenName : epa_club
+Location : Bangkok
+StatusCount : 995
+FollowerCount : 752
+FollowingCount : 59
+List of FollowingID : 
+ChulalongkornU
+Nattha_ThaiPBS
+OJ_Ann
+chanvit_keng

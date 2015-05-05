@@ -1,0 +1,6 @@
+ScreenName : mamew
+Location : BANGKOK
+StatusCount : 10595
+FollowerCount : 209
+FollowingCount : 176
+List of FollowingID : 

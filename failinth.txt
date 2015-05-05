@@ -1,0 +1,22 @@
+ScreenName : failinth
+Location : Bangkok
+StatusCount : 10162
+FollowerCount : 225713
+FollowingCount : 6
+List of FollowingID : 
+salmonsay
+TwTemo
+gthchannel
+drama_add
+f0nt
+ScreenName : failinth
+Location : Bangkok
+StatusCount : 10162
+FollowerCount : 226293
+FollowingCount : 6
+List of FollowingID : 
+salmonsay
+TwTemo
+gthchannel
+drama_add
+f0nt

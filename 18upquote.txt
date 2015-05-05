@@ -1,0 +1,6 @@
+ScreenName : 18upquote
+Location : BKK Thailand
+StatusCount : 4238
+FollowerCount : 26167
+FollowingCount : 110
+List of FollowingID : 

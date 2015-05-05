@@ -1,0 +1,8 @@
+ScreenName : salmonsay
+Location : bangkok, thailand
+StatusCount : 1826
+FollowerCount : 7591
+FollowingCount : 5
+List of FollowingID : 
+readgiraffe
+minimoreweb

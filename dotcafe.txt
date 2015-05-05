@@ -1,0 +1,6 @@
+ScreenName : dotcafe
+Location : Hat Yai, Thailand
+StatusCount : 2148
+FollowerCount : 598
+FollowingCount : 0
+List of FollowingID : 

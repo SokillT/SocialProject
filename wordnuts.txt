@@ -1,0 +1,6 @@
+ScreenName : wordnuts
+Location : Bangkok, Thailand
+StatusCount : 2304
+FollowerCount : 41327
+FollowingCount : 0
+List of FollowingID : 

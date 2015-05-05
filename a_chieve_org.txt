@@ -1,0 +1,9 @@
+ScreenName : a_chieve_org
+Location : Bangkok,Thailand
+StatusCount : 4290
+FollowerCount : 1996
+FollowingCount : 103
+List of FollowingID : 
+DrIttaporn
+thidakarn
+kalamare

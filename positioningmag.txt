@@ -1,0 +1,25 @@
+ScreenName : positioningmag
+Location : Bangkok
+StatusCount : 5376
+FollowerCount : 53666
+FollowingCount : 27
+List of FollowingID : 
+DigiThun
+pengsugree
+siampod
+siwat
+nui249
+thumbsupTH
+portfoliosnet
+tcdc
+NOW26_ktnews
+adaymagazine
+Creative_TH
+ThaiTech
+CyberBiz_Online
+ginhubdotcom
+webwedth
+jakrapong
+kengdotcom
+blognone
+tcdcconnect

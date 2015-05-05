@@ -1,0 +1,6 @@
+ScreenName : maymetawee
+Location : BKK, Thailand
+StatusCount : 286
+FollowerCount : 35
+FollowingCount : 219
+List of FollowingID : 

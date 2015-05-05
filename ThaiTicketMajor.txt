@@ -1,0 +1,11 @@
+ScreenName : ThaiTicketMajor
+Location : Thailand
+StatusCount : 3604
+FollowerCount : 31709
+FollowingCount : 23
+List of FollowingID : 
+go2Thailand
+becterosasanafc
+KungChalermchai
+MICKYWORLD
+MajorGroup

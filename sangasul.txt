@@ -1,0 +1,6 @@
+ScreenName : sangasul
+Location : Bangkok, Thailand.
+StatusCount : 10579
+FollowerCount : 138
+FollowingCount : 1216
+List of FollowingID : 

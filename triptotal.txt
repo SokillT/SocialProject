@@ -1,0 +1,6 @@
+ScreenName : triptotal
+Location : Bangkok, Thailand
+StatusCount : 133
+FollowerCount : 12
+FollowingCount : 25
+List of FollowingID : 
